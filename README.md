@@ -6,7 +6,7 @@
         <li><a href="#mnist-tensorflow">MNIST con TensorFlow y Keras</a></li>
     </ul>
 
-    <h2 id="mnist-pytorch">MNIST con PyTorch</h2>
+<h2 id="mnist-pytorch">MNIST con PyTorch</h2>
     <table>
         <thead>
             <tr>
@@ -24,7 +24,7 @@
         </tbody>
     </table>
 
-    <h2 id="fashionmnist-pytorch">FashionMNIST con PyTorch</h2>
+<h2 id="fashionmnist-pytorch">FashionMNIST con PyTorch</h2>
     <table>
         <thead>
             <tr>
@@ -42,7 +42,7 @@
         </tbody>
     </table>
 
-    <h2 id="mnist-tensorflow">MNIST con TensorFlow y Keras</h2>
+<h2 id="mnist-tensorflow">MNIST con TensorFlow y Keras</h2>
     <table>
         <thead>
             <tr>
